@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.littlelemon.app-main-62:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_lemon_dessert.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/lemon_dessert.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_pasta.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/pasta.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_bruschetta.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/bruschetta.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_grilled_fish.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/grilled_fish.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_delivery_van.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/delivery_van.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_greek_salad.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/greek_salad.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_hero_image.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/hero_image.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/xml_backup_rules.xml.flat",
+        "source": "com.example.littlelemon.app-main-62:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable-v24_logo.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable-v24/logo.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.littlelemon.app-main-62:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_logo.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.littlelemon.app-merged_res-60:/drawable_profile.png.flat",
+        "source": "com.example.littlelemon.app-main-62:/drawable/profile.png"
+    }
+]
